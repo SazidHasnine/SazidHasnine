@@ -7,6 +7,8 @@ A passionate mobile app developer with a strong interest in Flutter, Dart, and b
 - 🧠 Learning and building apps with API integration, local database, and UI/UX improvements
 - 💻 Exploring C++ and Data Structures & Algorithms
 - 🚀 Focused on developing useful apps for everyday problems
+- 🎓 Currently pursuing MSc in CSE at Military Institute of Science and Technology (MIST)
+- 💼 Working as an App Developer at Softsasi
 
 ## Tech Stack
 - Flutter
@@ -33,6 +35,7 @@ A passionate mobile app developer with a strong interest in Flutter, Dart, and b
 - Improving app architecture and logic
 - Learning API-driven development
 - Strengthening problem-solving and DSA fundamentals
+- Developing professional skills in software engineering and mobile application development
 
 ## Connect with Me
 - Email: sazidhasnine765@gmail.com
